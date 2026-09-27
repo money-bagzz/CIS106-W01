@@ -1,6 +1,6 @@
 print("Enter the number of books to order:")
 books = int(input())
-print("enter the cost per book:")
+print("Enter the cost per book:")
 cost = float(input())
 
 order_total = books * cost
